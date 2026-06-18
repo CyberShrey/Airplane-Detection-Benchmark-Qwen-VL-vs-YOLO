@@ -1,0 +1,797 @@
+{
+  "_metadata": {
+    "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "generated_at": "2026-06-12T07:38:11.141877Z",
+    "total_images": 34,
+    "successful": 27,
+    "failed": 7,
+    "elapsed_seconds": 391.81,
+    "max_new_tokens": 300
+  },
+  "predictions": {
+    "airport_100_jpg.rf.SgVI5S0YAGG0OACKq5Lb.jpg": {
+      "airplane_present": true,
+      "predicted_count": 24,
+      "bboxes": [
+        [
+          390.0,
+          118.0,
+          560.0,
+          327.0
+        ],
+        [
+          110.0,
+          469.0,
+          126.0,
+          488.0
+        ]
+      ],
+      "confidence": 0.99
+    },
+    "airport_104_jpg.rf.1pOVstMo6rclUbOXLaSs.jpg": {
+      "airplane_present": true,
+      "predicted_count": 2,
+      "bboxes": [
+        [
+          78.0,
+          483.0,
+          90.0,
+          495.0
+        ],
+        [
+          60.0,
+          455.0,
+          70.0,
+          466.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_110_jpg.rf.wXyE2INx62V87ES0BByM.jpg": {
+      "airplane_present": true,
+      "predicted_count": 24,
+      "bboxes": [
+        [
+          32.0,
+          0.0,
+          587.0,
+          496.0
+        ]
+      ],
+      "confidence": 0.99
+    },
+    "airport_132_jpg.rf.SIPv0mdsmn2vWOaiVVNq.jpg": {
+      "airplane_present": false,
+      "predicted_count": 0,
+      "bboxes": [],
+      "confidence": 0.0
+    },
+    "airport_133_jpg.rf.0E3hNlE6NgJuarLbWrpq.jpg": {
+      "airplane_present": true,
+      "predicted_count": 2,
+      "bboxes": [
+        [
+          234.0,
+          265.0,
+          278.0,
+          290.0
+        ],
+        [
+          329.0,
+          253.0,
+          350.0,
+          270.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_164_jpg.rf.TzcDiRMAsVDOd7VshVuq.jpg": {
+      "airplane_present": true,
+      "predicted_count": 3,
+      "bboxes": [
+        [
+          234.0,
+          89.0,
+          252.0,
+          103.0
+        ],
+        [
+          232.0,
+          176.0,
+          272.0,
+          223.0
+        ],
+        [
+          232.0,
+          209.0,
+          247.0,
+          222.0
+        ]
+      ],
+      "confidence": 0.9
+    },
+    "airport_197_jpg.rf.mJn5ogY25an7yaWLqKYA.jpg": {
+      "airplane_present": true,
+      "predicted_count": 1,
+      "bboxes": [
+        [
+          258.0,
+          419.0,
+          376.0,
+          556.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_207_jpg.rf.o6l0TBZ3fIUNMkzJfxQ1.jpg": {
+      "airplane_present": true,
+      "predicted_count": 1,
+      "bboxes": [
+        [
+          349.0,
+          117.0,
+          365.0,
+          132.0
+        ]
+      ],
+      "confidence": 0.8
+    },
+    "airport_20_jpg.rf.FHDweD24NzVCj83UBwHv.jpg": {
+      "airplane_present": true,
+      "predicted_count": 9,
+      "bboxes": [
+        [
+          297.0,
+          168.0,
+          340.0,
+          205.0
+        ],
+        [
+          297.0,
+          95.0,
+          312.0,
+          122.0
+        ],
+        [
+          325.0,
+          46.0,
+          359.0,
+          64.0
+        ],
+        [
+          325.0,
+          182.0,
+          369.0,
+          218.0
+        ],
+        [
+          325.0,
+          224.0,
+          385.0,
+          243.0
+        ],
+        [
+          405.0,
+          360.0,
+          424.0,
+          378.0
+        ],
+        [
+          468.0,
+          351.0,
+          487.0,
+          378.0
+        ],
+        [
+          325.0,
+          369.0,
+          363.0,
+          400.0
+        ],
+        [
+          325.0,
+          400.0,
+          363.0,
+          430.0
+        ]
+      ],
+      "confidence": 0.9
+    },
+    "airport_211_jpg.rf.6uZQ5MHFvgPoI5uzE5PD.jpg": {
+      "airplane_present": true,
+      "predicted_count": 2,
+      "bboxes": [
+        [
+          219.0,
+          45.0,
+          263.0,
+          87.0
+        ],
+        [
+          178.0,
+          118.0,
+          224.0,
+          137.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_214_jpg.rf.GCx40iTFzQvH7xCgdLNi.jpg": {
+      "airplane_present": true,
+      "predicted_count": 3,
+      "bboxes": [
+        [
+          87.0,
+          126.0,
+          190.0,
+          265.0
+        ],
+        [
+          261.0,
+          180.0,
+          297.0,
+          206.0
+        ],
+        [
+          94.0,
+          229.0,
+          192.0,
+          267.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_222_jpg.rf.ORemHpaVGwc9wklJtBEi.jpg": {
+      "airplane_present": true,
+      "predicted_count": 2,
+      "bboxes": [
+        [
+          153.0,
+          208.0,
+          167.0,
+          220.0
+        ],
+        [
+          174.0,
+          209.0,
+          186.0,
+          220.0
+        ]
+      ],
+      "confidence": 0.9
+    },
+    "airport_241_jpg.rf.979JIZDsqTlWpiVdzegX.jpg": {
+      "airplane_present": true,
+      "predicted_count": 4,
+      "bboxes": [
+        [
+          65.0,
+          448.0,
+          102.0,
+          483.0
+        ],
+        [
+          91.0,
+          502.0,
+          143.0,
+          587.0
+        ],
+        [
+          158.0,
+          386.0,
+          194.0,
+          414.0
+        ],
+        [
+          354.0,
+          26.0,
+          413.0,
+          94.0
+        ]
+      ],
+      "confidence": 0.99
+    },
+    "airport_246_jpg.rf.NkYV3zgrvr8Lko4baUi2.jpg": {
+      "airplane_present": true,
+      "predicted_count": 6,
+      "bboxes": [
+        [
+          48.0,
+          397.0,
+          112.0,
+          489.0
+        ],
+        [
+          129.0,
+          445.0,
+          164.0,
+          486.0
+        ],
+        [
+          182.0,
+          170.0,
+          232.0,
+          220.0
+        ],
+        [
+          94.0,
+          169.0,
+          137.0,
+          219.0
+        ],
+        [
+          332.0,
+          46.0,
+          369.0,
+          97.0
+        ],
+        [
+          39.0,
+          39.0,
+          67.0,
+          78.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_248_jpg.rf.YN7AKdXubbwDqc2aDrZl.jpg": {
+      "airplane_present": true,
+      "predicted_count": 12,
+      "bboxes": [
+        [
+          54.0,
+          367.0,
+          98.0,
+          406.0
+        ],
+        [
+          54.0,
+          428.0,
+          98.0,
+          456.0
+        ],
+        [
+          208.0,
+          303.0,
+          267.0,
+          336.0
+        ],
+        [
+          208.0,
+          385.0,
+          267.0,
+          404.0
+        ],
+        [
+          402.0,
+          381.0,
+          476.0,
+          440.0
+        ],
+        [
+          338.0,
+          89.0,
+          377.0,
+          134.0
+        ],
+        [
+          396.0,
+          82.0,
+          443.0,
+          131.0
+        ],
+        [
+          450.0,
+          86.0,
+          493.0,
+          132.0
+        ],
+        [
+          136.0,
+          113.0,
+          178.0,
+          162.0
+        ],
+        [
+          203.0,
+          110.0,
+          246.0,
+          150.0
+        ],
+        [
+          1.0,
+          150.0,
+          25.0,
+          176.0
+        ],
+        [
+          34.0,
+          176.0,
+          43.0,
+          188.0
+        ]
+      ],
+      "confidence": 0.99
+    },
+    "airport_251_jpg.rf.qmGSs6WzbJraRUCVhiL2.jpg": {
+      "airplane_present": true,
+      "predicted_count": 6,
+      "bboxes": [
+        [
+          125.0,
+          93.0,
+          204.0,
+          148.0
+        ],
+        [
+          171.0,
+          186.0,
+          226.0,
+          229.0
+        ],
+        [
+          145.0,
+          214.0,
+          182.0,
+          237.0
+        ],
+        [
+          174.0,
+          272.0,
+          252.0,
+          323.0
+        ],
+        [
+          308.0,
+          289.0,
+          383.0,
+          363.0
+        ],
+        [
+          242.0,
+          460.0,
+          323.0,
+          527.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_252_jpg.rf.kJZeXFYZgGnJH8PCviHj.jpg": {
+      "airplane_present": true,
+      "predicted_count": 6,
+      "bboxes": [
+        [
+          143.0,
+          289.0,
+          275.0,
+          411.0
+        ],
+        [
+          117.0,
+          95.0,
+          210.0,
+          175.0
+        ],
+        [
+          359.0,
+          49.0,
+          426.0,
+          94.0
+        ],
+        [
+          406.0,
+          199.0,
+          484.0,
+          255.0
+        ],
+        [
+          458.0,
+          358.0,
+          555.0,
+          443.0
+        ],
+        [
+          360.0,
+          82.0,
+          402.0,
+          124.0
+        ]
+      ],
+      "confidence": 0.9
+    },
+    "airport_260_jpg.rf.zfS1JskoXmClaTDM30ZB.jpg": {
+      "airplane_present": true,
+      "predicted_count": 2,
+      "bboxes": [
+        [
+          253.0,
+          241.0,
+          296.0,
+          287.0
+        ],
+        [
+          370.0,
+          143.0,
+          410.0,
+          179.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_26_jpg.rf.lncLXki2eqrxx2I1l7yF.jpg": {
+      "airplane_present": false,
+      "predicted_count": 0,
+      "bboxes": [],
+      "confidence": 0.0
+    },
+    "airport_276_jpg.rf.95UkpsyYzdHAmgyuEuhi.jpg": {
+      "airplane_present": true,
+      "predicted_count": 7,
+      "bboxes": [
+        [
+          89.0,
+          218.0,
+          134.0,
+          275.0
+        ],
+        [
+          243.0,
+          201.0,
+          288.0,
+          236.0
+        ],
+        [
+          320.0,
+          272.0,
+          365.0,
+          305.0
+        ],
+        [
+          385.0,
+          314.0,
+          437.0,
+          366.0
+        ],
+        [
+          368.0,
+          148.0,
+          411.0,
+          201.0
+        ],
+        [
+          470.0,
+          246.0,
+          520.0,
+          298.0
+        ],
+        [
+          399.0,
+          315.0,
+          437.0,
+          348.0
+        ]
+      ],
+      "confidence": 0.95
+    },
+    "airport_27_jpg.rf.ZBW21ebQGFvoYywk2YGp.jpg": {
+      "airplane_present": true,
+      "predicted_count": 1,
+      "bboxes": [
+        [
+          182.0,
+          259.0,
+          213.0,
+          296.0
+        ]
+      ],
+      "confidence": 0.97
+    },
+    "airport_316_jpg.rf.o9BOZog3OkBCGVMYLkfg.jpg": {
+      "airplane_present": true,
+      "predicted_count": 4,
+      "bboxes": [
+        [
+          290.0,
+          89.0,
+          315.0,
+          107.0
+        ],
+        [
+          352.0,
+          192.0,
+          376.0,
+          216.0
+        ],
+        [
+          452.0,
+          316.0,
+          472.0,
+          344.0
+        ],
+        [
+          482.0,
+          401.0,
+          505.0,
+          431.0
+        ]
+      ],
+      "confidence": 0.9
+    },
+    "airport_317_jpg.rf.cZmYSTwvs6hVByGf4izf.jpg": {
+      "airplane_present": true,
+      "predicted_count": 14,
+      "bboxes": [
+        [
+          15.0,
+          273.0,
+          56.0,
+          308.0
+        ],
+        [
+          86.0,
+          311.0,
+          112.0,
+          334.0
+        ],
+        [
+          199.0,
+          102.0,
+          237.0,
+          135.0
+        ],
+        [
+          366.0,
+          46.0,
+          404.0,
+          68.0
+        ],
+        [
+          338.0,
+          140.0,
+          370.0,
+          174.0
+        ],
+        [
+          395.0,
+          173.0,
+          428.0,
+          200.0
+        ],
+        [
+          421.0,
+          159.0,
+          452.0,
+          189.0
+        ],
+        [
+          421.0,
+          172.0,
+          452.0,
+          198.0
+        ],
+        [
+          421.0,
+          194.0,
+          452.0,
+          220.0
+        ],
+        [
+          490.0,
+          190.0,
+          529.0,
+          224.0
+        ],
+        [
+          490.0,
+          202.0,
+          529.0,
+          230.0
+        ],
+        [
+          490.0,
+          214.0,
+          529.0,
+          242.0
+        ]
+      ],
+      "confidence": 0.99
+    },
+    "airport_341_jpg.rf.3golgppQHw7GFVPATvfh.jpg": {
+      "airplane_present": true,
+      "predicted_count": 5,
+      "bboxes": [
+        [
+          25.0,
+          514.0,
+          98.0,
+          583.0
+        ],
+        [
+          146.0,
+          437.0,
+          213.0,
+          495.0
+        ],
+        [
+          225.0,
+          397.0,
+          266.0,
+          440.0
+        ],
+        [
+          255.0,
+          214.0,
+          294.0,
+          259.0
+        ],
+        [
+          80.0,
+          76.0,
+          129.0,
+          110.0
+        ]
+      ],
+      "confidence": 0.99
+    },
+    "airport_41_jpg.rf.nPokZ7eKCslGsAAf24Sd.jpg": {
+      "airplane_present": true,
+      "predicted_count": 12,
+      "bboxes": [
+        [
+          74.0,
+          375.0,
+          486.0,
+          444.0
+        ]
+      ],
+      "confidence": 0.99
+    },
+    "airport_77_jpg.rf.gFj2BPQRFwfb1rSOQ6Nk.jpg": {
+      "airplane_present": true,
+      "predicted_count": 2,
+      "bboxes": [
+        [
+          358.0,
+          254.0,
+          376.0,
+          271.0
+        ],
+        [
+          241.0,
+          250.0,
+          259.0,
+          268.0
+        ]
+      ],
+      "confidence": 0.9
+    },
+    "airport_93_jpg.rf.PRwxA4TK5VSrDMZu8yLy.jpg": {
+      "airplane_present": true,
+      "predicted_count": 24,
+      "bboxes": [
+        [
+          31.0,
+          126.0,
+          580.0,
+          237.0
+        ],
+        [
+          33.0,
+          414.0,
+          586.0,
+          529.0
+        ]
+      ],
+      "confidence": 0.99
+    }
+  },
+  "failed": {
+    "airport_118_jpg.rf.dnpyW1NCEmxTzG9jFxyE.jpg": "Unparseable: '```json\\n{\\n  \"airplane_present\": true,\\n  \"predicted_count\": 24,\\n  \"bboxes\": [\\n    [139, 487, 175, 539],\\n    [146, 394, 179, 441],\\n    [186, 394, 222, 444],\\n    [274, 394, 318, 446],\\n    [257, 497, 280, 531],\\n    [300, 394, 325, 438],\\n    [318, 394, 342, 437],\\n    [342, 394, 366, 436],\\n    [366, 394, 389, 435],\\n    [390, 394, 413, 434],\\n    [413, 394, 436, 433],\\n    [436, 394, 459, 432],\\n    [459, 394, 482, 431],'",
+    "airport_218_jpg.rf.QpR1jQNwoeeTeSEPXabC.jpg": "Unparseable: '```json\\n{\\n  \"airplane_present\": true,\\n  \"predicted_count\": 24,\\n  \"bboxes\": [\\n    [35, 252, 61, 280],\\n    [19, 299, 61, 331],\\n    [78, 378, 110, 408],\\n    [45, 429, 108, 476],\\n    [109, 463, 141, 490],\\n    [112, 393, 143, 420],\\n    [147, 300, 171, 324],\\n    [182, 294, 205, 318],\\n    [197, 262, 210, 283],\\n    [204, 314, 226, 336],\\n    [239, 374, 255, 393],\\n    [2, 388, 21, 414],\\n    [45, 365, 77, 392],\\n    [78, 360,'",
+    "airport_227_jpg.rf.o0kgP1r3Jo4lOKobh2TQ.jpg": "Unparseable: '```json\\n{\\n  \"airplane_present\": true,\\n  \"predicted_count\": 24,\\n  \"bboxes\": [\\n    [205, 203, 246, 247],\\n    [228, 239, 260, 272],\\n    [274, 290, 306, 323],\\n    [288, 333, 318, 358],\\n    [302, 362, 334, 385],\\n    [317, 380, 340, 395],\\n    [343, 437, 360, 452],\\n    [357, 465, 380, 489],\\n    [366, 475, 388, 496],\\n    [378, 444, 400, 466],\\n    [388, 453, 419, 475],\\n    [398, 462, 420, 480],\\n    [408, 469, 428, 488],'",
+    "airport_230_jpg.rf.kruYBZomaPPyOuqwEhkX.jpg": "Unparseable: '```json\\n{\\n  \"airplane_present\": true,\\n  \"predicted_count\": 24,\\n  \"bboxes\": [\\n    [68, 59, 87, 79],\\n    [97, 73, 110, 87],\\n    [117, 445, 133, 464],\\n    [12, 23, 34, 44],\\n    [11, 486, 34, 500],\\n    [12, 486, 34, 500],\\n    [11, 486, 34, 500],\\n    [12, 486, 34, 500],\\n    [11, 486, 34, 500],\\n    [12, 486, 34, 500],\\n    [11, 486, 34, 500],\\n    [12, 486, 34, 500],\\n    [11, 486, 34, 500],\\n    [12, 486, 34, 500],\\n    [11, 486,'",
+    "airport_237_jpg.rf.gC1gqgcgppTWBMDRZ6ON.jpg": "Unparseable: '```json\\n{\\n  \"airplane_present\": true,\\n  \"predicted_count\": 24,\\n  \"bboxes\": [\\n    [39, 258, 62, 278],\\n    [109, 234, 130, 252],\\n    [135, 230, 150, 247],\\n    [159, 230, 177, 246],\\n    [219, 275, 242, 297],\\n    [109, 225, 128, 238],\\n    [119, 218, 137, 230],\\n    [137, 218, 155, 230],\\n    [155, 218, 173, 230],\\n    [173, 218, 189, 230],\\n    [189, 218, 207, 230],\\n    [207, 218, 225, 230],\\n    [225, 218, 243, 230],\\n    ['",
+    "airport_360_jpg.rf.OESzyUK3rj6UJocnh7c6.jpg": "Unparseable: '```json\\n{\\n  \"airplane_present\": true,\\n  \"predicted_count\": 24,\\n  \"bboxes\": [\\n    [356, 51, 370, 60],\\n    [80, 96, 96, 104],\\n    [192, 89, 208, 98],\\n    [232, 155, 253, 181],\\n    [288, 153, 300, 168],\\n    [323, 152, 345, 167],\\n    [368, 153, 381, 167],\\n    [407, 152, 428, 167],\\n    [462, 152, 483, 167],\\n    [505, 152, 526, 167],\\n    [548, 152, 569, 167],\\n    [569, 152, 580, 167],\\n    [569, 108, 580, 122],\\n    [569,'",
+    "airport_95_jpg.rf.CxYtlLeMkLtlqNEbhAwb.jpg": "Unparseable: '```json\\n{\\n  \"airplane_present\": true,\\n  \"predicted_count\": 24,\\n  \"bboxes\": [\\n    [198, 356, 207, 366],\\n    [207, 356, 216, 366],\\n    [216, 356, 225, 366],\\n    [225, 356, 234, 366],\\n    [234, 356, 243, 366],\\n    [243, 356, 252, 366],\\n    [252, 356, 261, 366],\\n    [261, 356, 270, 366],\\n    [270, 356, 279, 366],\\n    [279, 356, 288, 366],\\n    [288, 356, 297, 366],\\n    [297, 356, 306, 366],\\n    [306, 356, 315, 366],'"
+  }
+}
